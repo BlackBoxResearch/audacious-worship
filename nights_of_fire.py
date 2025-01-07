@@ -103,3 +103,5 @@ with run_sheet:
 
 with dress_code:
     st.subheader("Dress Code", anchor=False)
+
+    st.image(image="a39dc0a6695910ae7a205def3b661c6f.jpg", use_container_width=True)
